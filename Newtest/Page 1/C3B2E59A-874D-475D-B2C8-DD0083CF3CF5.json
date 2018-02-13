@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 842,
-    "width": 595,
+    "height": 1280,
+    "width": 960,
     "x": 185,
     "y": -91
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,19 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "F033D4C2-B568-4B4E-9E76-7EF858AD0287"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1C8308B3-250D-4B87-B6BF-D28044473375"
-    }
   ],
-  "name": "A4",
-  "nameIsFixed": false,
+  "name": "Newtest",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
