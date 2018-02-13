@@ -48,6 +48,10 @@
     {
       "class": "shapeGroup",
       "id": "CA0B556D-48D3-47C5-AECF-49BBB794ACA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5134DAD-8447-4EA5-B03D-5A1A1F239D91"
     }
   ],
   "name": "Newtest",
